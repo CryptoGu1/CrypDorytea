@@ -23,8 +23,8 @@ setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'tea-xyz1',
-        'tea-xyz2',
+        'requests>=2.20.0',
+        'Guge',
         # add your projects
     ],
 )
